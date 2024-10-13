@@ -14,7 +14,7 @@
 
 
 ```shell
-pip install Pillow, numpy
+pip install Pillow numpy
 ```
 
 * 1 将目标图片存入到out-pics 内更改名称为protrait.jpg 
